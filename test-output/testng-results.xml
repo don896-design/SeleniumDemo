@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-05T10:48:20 IST" name="Suite" finished-at="2026-10-05T10:48:47 IST" duration-ms="26678">
+    <groups>
+    </groups>
+    <test started-at="2026-10-05T10:48:20 IST" name="Test" finished-at="2026-10-05T10:48:47 IST" duration-ms="26678">
+      <class name="test.SaucedemoLoginTest">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7]" started-at="2026-10-05T10:48:20 IST" name="setUpReport" finished-at="2026-10-05T10:48:21 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7]" started-at="2026-10-05T10:48:21 IST" name="setUp" finished-at="2026-10-05T10:48:24 IST" duration-ms="3519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoLoginTest.testLoginSuccess()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginSuccess()[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7]" started-at="2026-10-05T10:48:24 IST" name="testLoginSuccess" finished-at="2026-10-05T10:48:24 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSuccess -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7]" started-at="2026-10-05T10:48:24 IST" name="tearDown" finished-at="2026-10-05T10:48:25 IST" duration-ms="265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginSuccess status=SUCCESS method=SaucedemoLoginTest.testLoginSuccess()[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:test.SaucedemoLoginTest@14dd9eb7]" started-at="2026-10-05T10:48:47 IST" name="flushReport" finished-at="2026-10-05T10:48:47 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- test.SaucedemoLoginTest -->
+      <class name="test.SauceCheckoutTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:40 IST" name="setUp" finished-at="2026-10-05T10:48:42 IST" duration-ms="2126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceCheckoutTest.testValidateCheckoutInformationText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidateCheckoutInformationText()[pri:1, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:42 IST" name="testValidateCheckoutInformationText" finished-at="2026-10-05T10:48:43 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateCheckoutInformationText -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:43 IST" name="tearDown" finished-at="2026-10-05T10:48:43 IST" duration-ms="239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidateCheckoutInformationText status=SUCCESS method=SauceCheckoutTest.testValidateCheckoutInformationText()[pri:1, instance:test.SauceCheckoutTest@5fdcaa40] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:43 IST" name="setUp" finished-at="2026-10-05T10:48:45 IST" duration-ms="2020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceCheckoutTest.testFillFormAndFinish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFillFormAndFinish()[pri:2, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:45 IST" name="testFillFormAndFinish" finished-at="2026-10-05T10:48:47 IST" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFillFormAndFinish -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceCheckoutTest@5fdcaa40]" started-at="2026-10-05T10:48:47 IST" name="tearDown" finished-at="2026-10-05T10:48:47 IST" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testFillFormAndFinish status=SUCCESS method=SauceCheckoutTest.testFillFormAndFinish()[pri:2, instance:test.SauceCheckoutTest@5fdcaa40] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.SauceCheckoutTest -->
+      <class name="test.SauceInventoryTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:25 IST" name="setUp" finished-at="2026-10-05T10:48:27 IST" duration-ms="2090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceInventoryTest.testProductText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testProductText()[pri:1, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:27 IST" name="testProductText" finished-at="2026-10-05T10:48:27 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductText -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:27 IST" name="tearDown" finished-at="2026-10-05T10:48:27 IST" duration-ms="200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testProductText status=SUCCESS method=SauceInventoryTest.testProductText()[pri:1, instance:test.SauceInventoryTest@7fa98a66] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:27 IST" name="setUp" finished-at="2026-10-05T10:48:29 IST" duration-ms="2061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceInventoryTest.testSelectPriceLowToHigh()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSelectPriceLowToHigh()[pri:2, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:29 IST" name="testSelectPriceLowToHigh" finished-at="2026-10-05T10:48:29 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectPriceLowToHigh -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:29 IST" name="tearDown" finished-at="2026-10-05T10:48:30 IST" duration-ms="186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSelectPriceLowToHigh status=SUCCESS method=SauceInventoryTest.testSelectPriceLowToHigh()[pri:2, instance:test.SauceInventoryTest@7fa98a66] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:30 IST" name="setUp" finished-at="2026-10-05T10:48:32 IST" duration-ms="2040" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceInventoryTest.testAddProductsAndClickCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProductsAndClickCart()[pri:3, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:32 IST" name="testAddProductsAndClickCart" finished-at="2026-10-05T10:48:32 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductsAndClickCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceInventoryTest@7fa98a66]" started-at="2026-10-05T10:48:32 IST" name="tearDown" finished-at="2026-10-05T10:48:33 IST" duration-ms="234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddProductsAndClickCart status=SUCCESS method=SauceInventoryTest.testAddProductsAndClickCart()[pri:3, instance:test.SauceInventoryTest@7fa98a66] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.SauceInventoryTest -->
+      <class name="test.SauceCartTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:33 IST" name="setUp" finished-at="2026-10-05T10:48:35 IST" duration-ms="1916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceCartTest.testValidateCartText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidateCartText()[pri:1, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:35 IST" name="testValidateCartText" finished-at="2026-10-05T10:48:36 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateCartText -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:36 IST" name="tearDown" finished-at="2026-10-05T10:48:36 IST" duration-ms="200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidateCartText status=SUCCESS method=SauceCartTest.testValidateCartText()[pri:1, instance:test.SauceCartTest@15ff3e9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:36 IST" name="setUp" finished-at="2026-10-05T10:48:37 IST" duration-ms="1746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceCartTest.testContinueShoppingButtonEnabled()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testContinueShoppingButtonEnabled()[pri:2, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:37 IST" name="testContinueShoppingButtonEnabled" finished-at="2026-10-05T10:48:38 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContinueShoppingButtonEnabled -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:38 IST" name="tearDown" finished-at="2026-10-05T10:48:38 IST" duration-ms="178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testContinueShoppingButtonEnabled status=SUCCESS method=SauceCartTest.testContinueShoppingButtonEnabled()[pri:2, instance:test.SauceCartTest@15ff3e9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:38 IST" name="setUp" finished-at="2026-10-05T10:48:40 IST" duration-ms="2031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SauceCartTest.testCheckoutButtonEnabledAndClick()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutButtonEnabledAndClick()[pri:3, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:40 IST" name="testCheckoutButtonEnabledAndClick" finished-at="2026-10-05T10:48:40 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutButtonEnabledAndClick -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.SauceCartTest@15ff3e9e]" started-at="2026-10-05T10:48:40 IST" name="tearDown" finished-at="2026-10-05T10:48:40 IST" duration-ms="198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCheckoutButtonEnabledAndClick status=SUCCESS method=SauceCartTest.testCheckoutButtonEnabledAndClick()[pri:3, instance:test.SauceCartTest@15ff3e9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.SauceCartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
